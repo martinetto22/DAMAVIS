@@ -1,5 +1,5 @@
 import unittest
-from rod import Rod
+from project.rod import Rod
 
 class TestRod(unittest.TestCase):
     '''
