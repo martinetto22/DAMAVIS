@@ -71,7 +71,7 @@ class Rod():
         Args:
         mov (str)         ---> Indicate the movement to do.
         '''
-        orientation = self. direction
+        orientation = self.direction
         
         if orientation == 'vertical':
             if mov == 'change_direction':
